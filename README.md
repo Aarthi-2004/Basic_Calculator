@@ -1,5 +1,4 @@
 # Basic_Calculator
-Sure 🙂 here’s a clean, beginner-friendly **README.md** you can directly upload to GitHub for this project.
 
 ---
 
